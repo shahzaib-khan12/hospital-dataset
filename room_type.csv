@@ -1,0 +1,8 @@
+﻿room_type,room_abbrev,charge_per_bed
+deluxe room,DX,1500
+general ward,GW,250
+intensive care unit,ICU,4000
+operation theatre,OT,5000
+semi-special room,SSP,750
+special room,SP,1000
+suite room,SU,3000

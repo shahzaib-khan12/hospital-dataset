@@ -1,0 +1,125 @@
+﻿tid,treatment_name,fees
+24x7M,24x7 monitoring of vitals,500
+ABL,Ablation,60000
+ANAES,Administering anaesthesia,5000
+ANGIO,Angioplasty,2000000
+APTOMY,Appendicectomy,100000
+ARTHSCP,Arthroscopy,800000
+BLTR,Blood transfusion,20000
+BNFRACREP,Bone fracture repair,400000
+BNFUSREP,Bone Fusion repair,100000
+BRAUD,Behaviour Response Audiometry,95000
+BRSCPY,Bronchoscopy,450000
+CANPLSTY,Canaloplasty,60000
+CAPD,continuous ambulatory peritoneal dialysis,60000
+CATASURG,Cataract surgery,60000
+CBDSURG,Common bile duct (CBD) surgery,100000
+CBS,Cerebrovascular surgery,2500000
+CCPD,continuous cycling peritoneal dialysis,60000
+CERVBIOP,Cervical Biopsy,40000
+CHCYTMY,Cholecyctectomy,100000
+CHMTHRP,Chemotherapy,1000000
+CHNDRPLST,Chondroplasty,700000
+CHO,Cholera,1500
+CLSCP,colonoscopy,100000
+COLPHY,Colporrhaphy,40000
+COMA,Medically induced coma,500000
+CORSURG,Corneal surgery,70000
+COU,Cough/Sore throat,300
+CRAUD,Conditioned Response Audiometry,85000
+CRPLTY,cranioplasty,500000
+CSDEL,Cesarean delivery,80000
+CURSURG,Curative Surgery,1000000
+CYSTOMY,Cystogastrostomy,100000
+DACRYTMY,Dacryocystorhinostomy,200000
+DEBR,Debridement,100000
+DENG,Dengue,1500
+DIAGSURG,Diagnostic Surgery,1000000
+DLY,Dialysis,60000
+DRH,Diarrhea,300
+ECMO,Extracorporeal membrane oxygenation,60000
+ELMYGRPH,Electromyography,10000
+ENDABL,Endometrial ablation,40000
+ENDO,Endoscopy,100000
+EYELIDSURG,Eyelid surgery,50000
+FA,First aid,200
+FEV,Fever,300
+FFAUD,Free field Audiometry,80000
+FNS,Functional neurosurgery,2000000
+FORMTMY,foraminotomy,500000
+GLAUSURG,Glaucoma surgery,60000
+GSTSURG,Gastrointestinal Surgery,80000
+HEMDLY,Hemodialysis,60000
+HIPREPL,Hip replacement,5000000
+HPTS,Chronic Hepatitis,100000
+HRMNTHRP,Hormone therapy,1000000
+HRTPLNT,Heart Transplant,3500000
+HYSTMY,Hysterectomy,60000
+HYT,Hydrotherapy,2000
+IMMTHRP,Immunotherapy,1000000
+INF,Influenza,300
+IVTHRP,intravenous therapy,50000
+JAUN,Jaundice,1000
+JNTREP,Joint replacement,400000
+KDBIOP,Percutaneous kidney biopsies,60000
+KDTRSPL,kidney transplantation,800000
+KNREPL,Knee replacement,500000
+LACCNSUL,Lactation consultancy,40000
+LASEYESURG,Laser eye surgery,30000
+LPSCP,Laparoscopy,100000
+LTHTRPSY,Lithotripsy,60000
+LVBPSY,Liver Biopsy,100000
+MESURG,Micro-ear reconstructive surgery,500000
+MIG,Migraines,300
+MSTDEC,Mastoidectomy,200000
+MYMCTMY,Myomectomy,60000
+OCLPLSURG,Oculoplastic surgery,60000
+OESENDO,Flexible Oesophageal Endoscopy,100000
+OOPHTMY,Oophorectomy,70000
+OSTTMY,Osteotomy,100000
+PALLSURG,Palliative Surgery ,1000000
+PCMKR,Pacemakers,300000
+PEDGS,Pediatric Genetics services,5000
+PEDPC,Pediatric primary care ,400
+PEDPSY,Pediatric psychiatry,5000
+PEDR,Pediatric rheumatology,10000
+PHYTHRP,Physical therapy,50000
+PNJSTMY,pancreaticojejunostomy,100000
+PNS,Peripheral nerve surgery,1600000
+PREVSURG,Preventive Surgery,1000000
+PTAUD,Pure Tone Audiometry,80000
+RADTHRP,Radiation Therapy,1000000
+REFRCSURG,Refractive surgery,40000
+REHAB,Rehabilitation,1000
+RESTHRP,Respiratory therapy,50000
+RESTSURG,Restorative Surgery,1000000
+RETSURG,Retinal surgery,50000
+REVJNTSURG,Revision joint surgery,300000
+RHPLY,rhinoplasty,950000
+RRTHRP,renal replacement therapy,40000
+RS,Radiosurgery,1000000
+SBS,Skull base surgery,1000000
+SFTISREP,Soft tissue repair,200000
+SISURG,Sinus Surgery,500000
+SKG,Skin graft,20000
+SPLTOMY,splenectomy,100000
+SPNS,Spine Surgery,1500000
+SPT,Speech therapy,50000
+SS,Sleep Study,200000
+SSAUD,Speech Audiometry,85000
+STAGSURG,Staging Surgery,1000000
+STCLTRPL,Stem cell transplant,1000000
+STENT,Stenting,300000
+STN,Stereotactic neurosurgery,15000000
+STRBSURG,Strabismus surgery,50000
+TBSURG,Tubal Surgery,50000
+TET,Tetanus shot,5000
+TRLECTMY,Trachelectomy,30000
+TYM,Tympanometry,100000
+TYP,Typhoid,15000
+TYPLY,Tympanoplasty,550000
+VAGBIOP,Vaginal biopsy,70000
+VERDSCSURG,Intervertebral disc surgery,1000000
+VITRECTMY,vitrectomy,70000
+VLVREP,Heart Valve Repair,2500000
+VOM,Vomiting,300

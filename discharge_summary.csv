@@ -1,0 +1,121 @@
+﻿case_A_no,Diagnosis_details,patient_status
+81,Dengue,A                   
+82,Pregnant,A                   
+83,Displaced Hip,A                   
+84,Cataract,A                   
+85,Heart Failure,A                   
+86,Heart Failure,A                   
+87,Sleep Apnea,A                   
+88,Dengue,A                   
+89,Displaced Hip,A                   
+90,Displaced Hip,A                   
+91,Displaced Hip,A                   
+92,Dengue,A                   
+93,Displaced Hip,A                   
+94,Displaced Hip,A                   
+95,Dengue,A                   
+96,Liver failure,A                   
+97,Chronic Hepatitis,A                   
+98,Uterian Cancer,A                   
+99,Premature Birth,A                   
+100,Spinal Cord Dislocation,A                   
+101,Stereotactic Damage,D                   
+102,Stage-3 Cancer,A                   
+103,Elbow Fracture,A                   
+104,Jaundice,D                   
+105,Psychiatric Evaluation,A                   
+106,Liver Infection,A                   
+107,Stutter,D                   
+108,Cervical Inflammation,A                   
+109,Tissue Damage,A                   
+110,Spinal disc displacement,D                   
+111,Eyelid tear,A                   
+112,Third degree burns,A                   
+113,Cholera,D                   
+114,Speech Defect Correction,A                   
+115,Respiratory Issues,A                   
+116,Rabies,A                   
+117,Heart Failure,A                   
+118,Food Poisoning,D                   
+119,Repair of Elbow Tissue,A                   
+120,Glaucoma,A                   
+121,Retinal Surgery,A                   
+122,Second Degree Burns,D                   
+123,Blockage of artery,A                   
+124,Endoscopy,A                   
+125,Reflex Correction,A                   
+126,,D                   
+127,Cranial Repair,A                   
+128,Joint Tear,A                   
+129,Hormone Imbalance,A                   
+130,Jaundice,D                   
+131,Eardrum Rapture,D                   
+132,Artery Blockage,A                   
+133,Ear Deformation,A                   
+134,Abdominal Lesion,A                   
+135,Severe brain damage,A                   
+136,Hearing defect,A                   
+137,Renal Therapy,D                   
+138,Cerebral damage,D                   
+139,Cataract,A                   
+140,Kidney Failure,A                   
+141,Dengue,A                   
+142,Displaced Hip,D                   
+143,Jaundice,A                   
+144,Dengue,A                   
+145,Psychiatric Evaluation,D                   
+146,Chronic Hepatitis,A                   
+147,Dengue,A                   
+148,Dengue,A                   
+149,Dengue,A                   
+150,Displaced Hip,A                   
+151,Dengue,D                   
+152,Liver failure,A                   
+153,Dengue,A                   
+154,Vaginal lesions,A                   
+155,Dengue,A                   
+156,Dengue,D                   
+157,Endoscopy,A                   
+158,Dengue,A                   
+159,Food Poisoning,A                   
+160,Dengue,A                   
+161,Displaced Hip,A                   
+162,Food Poisoning,A                   
+163,Renal Therapy,D                   
+164,Dengue,A                   
+165,Displaced Knee,D                   
+166,Heart Failure,A                   
+167,Displaced Knee,D                   
+168,Food Poisoning,A                   
+169,Dengue,A                   
+170,Cataract,A                   
+171,Food Poisoning,A                   
+172,Heart Failure,A                   
+173,Liver failure,A                   
+174,Artery Blockage,A                   
+175,Jaundice,A                   
+176,Glaucoma,D                   
+177,Liver failure,A                   
+178,Cataract,A                   
+179,Cholera,A                   
+180,Chronic Hepatitis,A                   
+181,Ear drum rupture,D                   
+182,Jaundice,A                   
+183,Kidney Failure,A                   
+184,Displaced Hip,A                   
+185,Liver failure,A                   
+186,Chronic Hepatitis,A                   
+187,Retinal Surgery,A                   
+188,Displaced Hip,D                   
+189,stenting,A                   
+190,Jaundice,A                   
+191,Tympanometry,A                   
+192,Laparoscopy,A                   
+193,cranioplasty,A                   
+194,soft tissue repair,A                   
+195,cranioplasty,D                   
+196,Dengue,A                   
+197,Laparoscopy,A                   
+198,Dengue,A                   
+199,Chronic Hepatitis,A                   
+200,Dengue,A                   

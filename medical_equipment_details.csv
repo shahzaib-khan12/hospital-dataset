@@ -1,0 +1,88 @@
+﻿equipment_id,name,cost,type,stock,reorderlevel
+1,Bandage,20,D,100,20
+2,Drips,100,D,50,15
+3,Syringes,60,D,100,35
+4,Value Mask,150,D,100,30
+5,Suction unit,4000,R,5,1
+6,Feeding tube,400,D,50,10
+7,Dermatome,10000,R,5,2
+8,Scapel,200,D,50,10
+9,Cardiac Monitors,40000,R,5,2
+10,Ultrasound Machines,100000,R,5,2
+11,EKG Machines,50000,R,5,2
+12,Defibrillators,150000,D,5,2
+13,Balloon Pumps,2000,D,50,10
+14,Bypass Machine,200000,D,2,1
+15,Stress test system,50000,R,2,1
+16,Infusion pumps,5000,D,10,3
+17,Dressing drum,100,R,200,10
+18,Kidney Dish,100,R,200,10
+19,Bowls(lotion and iodine),60,R,200,10
+20,Wheel Chair,1000,R,10,2
+21,Oxygen inhalator,500,D,200,10
+22,Buckets,50,R,100,10
+23,Regular Stethoscope,300,R,5,2
+24,Oximeter,700,D,50,8
+25,Pneumatic ear speculum ,15000,D,25,2
+26,Tuning fork ,18000,R,4,2
+27,Noise Box ,56000,R,3,2
+28,Ear Syringe,25000,D,4,2
+29,Head light ,45000,R,3,2
+30,ENT Diagnostic Set ,35000,R,3,2
+31,"Audiometer, diagnostic ",600000,R,2,1
+32,ENT Treatment Chair ,1250000,R,2,1
+33,Brondoscope,12000,R,3,2
+34,Gastroscope,200000,R,2,1
+35,Duodenoscope,100000,R,2,1
+36,Endoscope,75000,R,2,1
+37,Dilator,2000,R,7,2
+38,APC Unit,2000,R,4,1
+39,Tru-Cut needle,200,D,15,3
+40,Forceps,250,R,50,5
+41,Depressor,1000,R,4,2
+42,Speculum,500,D,20,4
+43,Retractors,500,D,20,4
+44,Scissor Needle Holder,200,R,50,4
+45,Curette,300,D,30,4
+46,Bililights,5000,R,5,2
+47,BP monitor,5000,R,2,1
+48,Cardiopulmonary Monitor,6000,R,5,1
+49,C-PAP,50000,R,3,1
+50,Incubator,10000,R,50,10
+51,IV Line,1000,D,50,10
+52,Pulse Oximeter,1000,R,50,10
+53,Respirator,5000,R,50,10
+54,Ventilator,4000,R,50,10
+55,Ultrasonic stone disintegration apparatus,500000,R,2,1
+56,Cytoscope,1000000,R,2,1
+57,Urethral balloon catheter,500000,R,2,1
+58,Forceps,500,R,50,5
+59,Clamps,200,R,50,5
+60,Spatula,100,R,50,5
+61,Dissectors,100,D,50,5
+62,Suction Tubes,1000,D,10,2
+63,Scalpel,100,R,20,2
+64,Needle,50,R,20,2
+65,Skin Stapler,1000,R,5,2
+66,Examination Couch,38000,R,2,1
+67,Electric leater sewing machine,200000,R,2,1
+68,Electric cast cutter,40000,R,2,1
+69,Arc welding machine,60000,R,2,1
+70,Air compressor,60000,R,2,1
+71,Grinding Machine,50000,R,2,1
+72,Scissors,100,R,25,5
+73,Pre-Chopper,1000,R,5,3
+74,Phoropter,1000,R,5,3
+75,Tonometer,10000,R,5,3
+76,Speculum,1000,R,5,3
+77,Needle holder,1000,R,10,3
+78,Forceps,1000,R,20,5
+79,Canula,1000,R,5,3
+80,Retractors,1000,R,5,3
+81,Tru-Cut needle,2000,D,5,2
+82,Lumbar puncture needle,2000,D,5,2
+83,Umbilical Cord clamp,20000,D,5,2
+84,Pediatric Airway,2000,D,5,2
+85,Tongue depressor,10000,D,5,2
+86,Stethoscope,200,R,5,2
+87,Sphygmomanometer,500,R,5,2
